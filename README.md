@@ -6,7 +6,7 @@ This code was created by ChatGPT and Luis Borunda, and is based on the work of J
 
 Requirements
 A valid OpenAI API key
-Firefly "Load Bitmap" component
+Firefly "Load Bitmap" component (runs in windows only)
 
 Usage
 Replace api_key in the code with your own OpenAI API key.
